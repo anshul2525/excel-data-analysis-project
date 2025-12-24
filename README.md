@@ -15,5 +15,4 @@ have been used to derive insights from the dataset.
 - Pivot tables (if used)
 - Charts and visual analysis
 
-## Files Included
-- EXCEL project 2.xlsx
+
